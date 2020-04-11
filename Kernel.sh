@@ -9,3 +9,7 @@ then
  lscpu
  lsblk
  nproc
+ iostat
+ sar -u
+ nproc
+ cat /etc/os-release
